@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a passionate software developer currently pursuing my M.Tech in Computational and Data Science at NITK. With a strong foundation in computer algorithms and data science, I enjoy working on complex problems that bridge the gap between theory and real-world applications.
-### 💼 Core Developer Intern @ DELL Technologies (May, 24 - present)
+### 💼 Core Developer Intern @ DELL Technologies (May,24 - )
 As an intern at DELL Technologies, I have been actively contributing to cutting-edge projects in the Native Edge solutions domain. Some of my key contributions include:
 - **High Availability POCs:** Developed multiple Proof of Concepts (POCs) to ensure high availability in Native Edge solutions, enhancing system reliability and performance.
 - **Edge Computing Clustering:** Implemented advanced clustering mechanisms for edge computing platforms to optimize resource allocation and system robustness.
